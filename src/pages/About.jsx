@@ -8,7 +8,7 @@ const About = () => {
         Sobre mí
       </h2>
       <p className="text-lg text-gray-700 dark:text-gray-300 mb-4">
-        Soy un desarrollador apasionado por la tecnología y el diseño. Me encanta crear soluciones innovadoras y efectivas que resuelvan problemas reales. Con experiencia en desarrollo web y diseño de interfaces, busco siempre aprender nuevas tecnologías y mejorar mis habilidades.
+        Mi nombre es Harbey Alexander Camaron Diaz, soy un desarrollador apasionado por la tecnología y el diseño. Me encanta crear soluciones innovadoras y efectivas que resuelvan problemas reales. Con experiencia en desarrollo web y diseño de interfaces, busco siempre aprender nuevas tecnologías y mejorar mis habilidades.
       </p>
       <img
         src={miFoto} 

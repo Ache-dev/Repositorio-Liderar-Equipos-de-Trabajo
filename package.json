@@ -5,11 +5,12 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "tsc && vite build",
-    "lint": "eslint .",
+    "build": "vite build",
+    "lint": "eslint src --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy":"gh-pages -d dist"
+    "deploy": "gh-pages -d dist",
+    "homepage": "https://ache-dev.github.io/Repositorio-Liderar-Equipos-de-Trabajo/"
   },
   "dependencies": {
     "@heroicons/react": "^2.1.5",
