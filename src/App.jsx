@@ -7,7 +7,7 @@ import './App.css';
 
 function App() {
   return (
-    <Router basename="/Repositorio-Liderar-Equipos-de-Trabajo"> {/* Cambia "mi-repo" por el nombre real de tu repositorio */}
+    <Router>
       <div className="min-h-screen">
         <NavBar />
         <div className="flex-1 bg-gray-100 dark:bg-gray-900">
