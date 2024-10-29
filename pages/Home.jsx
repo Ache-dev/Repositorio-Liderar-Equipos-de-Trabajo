@@ -1,6 +1,6 @@
-import NavBar from '../components/NavBar.jsx';
-import ProjectCard from '../components/ProjectCard.jsx';
-import '../App.css';
+import NavBar from '../src/components/NavBar.jsx';
+import ProjectCard from '../src/components/ProjectCard.jsx';
+import '../src/App.css';
 
 function App() {
   return (

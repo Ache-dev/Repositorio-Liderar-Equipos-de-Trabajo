@@ -1,5 +1,5 @@
 import React from 'react';
-import miFoto from '../images/Foto.jpg'; // Asegúrate de ajustar la ruta según corresponda
+import miFoto from '../src/images/Foto.jpg'; // Asegúrate de ajustar la ruta según corresponda
 
 const About = () => {
   return (
