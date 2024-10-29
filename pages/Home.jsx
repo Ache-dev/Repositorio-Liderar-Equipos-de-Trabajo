@@ -9,7 +9,7 @@ function App() {
       <div className="flex-1 bg-gray-100 dark:bg-gray-900">
         <main className="p-6 text-center mx-auto max-w-7xl mt-16">
           <h1 className="text-4xl font-extrabold text-gray-900 dark:text-white mb-6">
-            Bienvenido al repositorio de Proyectos
+          🌟 Bienvenido al repositorio de Proyectos 💼
           </h1>
           
           <p className="text-lg text-gray-700 dark:text-gray-300 mb-8">

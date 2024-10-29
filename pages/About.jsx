@@ -4,11 +4,11 @@ import miFoto from '../src/images/Foto.jpg'; // Asegúrate de ajustar la ruta se
 const About = () => {
   return (
     <section className="mb-16 text-center">
-      <h2 className="text-2xl font-bold text-gray-900 dark:text-white mb-4">
+      <h2 className="text-4xl font-extrabold text-gray-900 dark:text-white mb-6">
         Sobre mí
       </h2>
       <p className="text-lg text-gray-700 dark:text-gray-300 mb-4">
-        Mi nombre es Harbey Alexander Camaron Diaz, soy un desarrollador apasionado por la tecnología y el diseño. Me encanta crear soluciones innovadoras y efectivas que resuelvan problemas reales. Con experiencia en desarrollo web y diseño de interfaces, busco siempre aprender nuevas tecnologías y mejorar mis habilidades.
+      👋 ¡Hola! Soy Harbey Alexander Camaron Diaz, estudiante en el TDEA y el hijo menor de mi familia. Me apasiona profundamente el mundo de la tecnología y el desarrollo, y disfruto explorando todo lo que la innovación y la creatividad pueden ofrecer. 🚀💻
       </p>
       <img
         src={miFoto} 
